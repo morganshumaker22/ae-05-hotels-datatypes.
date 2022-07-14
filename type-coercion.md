@@ -1,6 +1,6 @@
 Type coercion
 ================
-Naomi Ekas
+Morgan Shumaker
 
 -   `c(1, 1L, "C")`
 

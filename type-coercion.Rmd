@@ -1,6 +1,6 @@
 ---
 title: "Type coercion"
-author: "Naomi Ekas"
+author: "Morgan Shumaker"
 output: github_document
 ---
 
